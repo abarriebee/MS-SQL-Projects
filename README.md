@@ -10,5 +10,5 @@ MS SQL Server - Azure Data Studio and Docker
 4th, gather excel data for project
 5th, filter and cleaning relevant data
 
-
-6th, how to transfer excel data to sql
+6th, create database
+7th, how to transfer excel data to sql table
